@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Fredoka+One);
+
+body {
+  background-color: #EAF2F8;
+}
+.heading {
+  text-align: center;
+  margin-top: 10px;
+}
+.heading h1 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 3em;
+}
+.heading p{
+  margin-top: 10px;
+  color: #888;
+}
+.video {
+  background-color: #D4E4F5;
+  padding: 10px;
+  border: 1px solid #69B5E1;
+  box-shadow: 5px 5px 5px #ccc;
+  -moz-box-shadow: 5px 5px 5px #ccc;
+  -webkit-box-shadow: 5px 5px 5px #ccc;
+}
+.foottext p {
+  text-align: center;
+  line-height: 120%;
+  font-size: 1.2em;
+  margin-top: 20px;
+}
